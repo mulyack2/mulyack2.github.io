@@ -94,6 +94,7 @@ comments:
   utterances:
     repo: mulyack2/mulyack2.github.io-utterances # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
+    theme: "photon-dark"
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
