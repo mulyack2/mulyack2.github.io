@@ -6,13 +6,13 @@ tags: [Programming, Python, Data-Analysis, Data-Visualze]
 ---
 
 # 이태원-압사-사고 Series
-- [이태원-압사-사고 BluePrint[01]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-01/)   
+- [이태원-압사-사고 BluePrint[01]](/posts/itaewon-halloween-crowd-crush-01/)   
 
-- [이태원-압사-사고 ETL[02]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-02/)   
+- [이태원-압사-사고 ETL[02]](/posts/itaewon-halloween-crowd-crush-02/)   
 
-- [이태원-압사-사고 Visualize[03]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-03/)   
+- [이태원-압사-사고 Visualize[03]](/posts/itaewon-halloween-crowd-crush-03/)   
 
-- [이태원-압사-사고 Prediction[04]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-04/)   
+- [이태원-압사-사고 Prediction[04]](/posts/itaewon-halloween-crowd-crush-04/)   
 
 ---
 
@@ -43,3 +43,6 @@ tags: [Programming, Python, Data-Analysis, Data-Visualze]
 3. `서울특별시 행정동별 서울생활인구`
 
 3가지를 메인 데이터로 상황을 살펴볼 예정입니다.
+
+
+[이태원-압사-사고-ETL-02]: /_posts/project/itaewon-halloween-crowd-crush/2022-11-08-itaewon-halloween-crowd-crush-01.md

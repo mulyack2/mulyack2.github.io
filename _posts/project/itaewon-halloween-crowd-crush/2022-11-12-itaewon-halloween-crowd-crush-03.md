@@ -6,13 +6,13 @@ tags: [Programming, Python, Visualize]
 ---
 
 # 이태원-압사-사고 Series
-- [이태원-압사-사고 BluePrint[01]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-01/)   
+- [이태원-압사-사고 BluePrint[01]](/posts/itaewon-halloween-crowd-crush-01/)   
 
-- [이태원-압사-사고 ETL[02]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-02/)   
+- [이태원-압사-사고 ETL[02]](/posts/itaewon-halloween-crowd-crush-02/)   
 
-- [이태원-압사-사고 Visualize[03]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-03/)   
+- [이태원-압사-사고 Visualize[03]](/posts/itaewon-halloween-crowd-crush-03/)   
 
-- [이태원-압사-사고 Prediction[04]](https://mulyack2.github.io/posts/itaewon-halloween-crowd-crush-04/)   
+- [이태원-압사-사고 Prediction[04]](/posts/itaewon-halloween-crowd-crush-04/)  
 
 ---
 
