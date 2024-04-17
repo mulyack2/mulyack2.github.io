@@ -5,12 +5,13 @@ categories: [Project, 이태원-압사-사고]
 tags: [Programming, Python, Visualize]
 ---
 
-# 이태원-압사-사고 Series
-- [이태원-압사-사고 BluePrint[01]](/posts/itaewon-halloween-crowd-crush-01/)   
+## 이태원-압사-사고 Series
 
-- [이태원-압사-사고 ETL[02]](/posts/itaewon-halloween-crowd-crush-02/)   
+- [이태원-압사-사고 BluePrint[01]](/posts/itaewon-halloween-crowd-crush-01/)
 
-- [이태원-압사-사고 Visualize[03]](/posts/itaewon-halloween-crowd-crush-03/)   
+- [이태원-압사-사고 ETL[02]](/posts/itaewon-halloween-crowd-crush-02/)
+
+- [이태원-압사-사고 Visualize[03]](/posts/itaewon-halloween-crowd-crush-03/)
 
 - [이태원-압사-사고 Prediction[04]](/posts/itaewon-halloween-crowd-crush-04/)  
 
@@ -19,6 +20,7 @@ tags: [Programming, Python, Visualize]
 ## 1. 서울교통공사 지하철 일별 / 역별 / 시간대별 승하차 인원
 
 ### 평균 대비 최대 하차율 확인
+
 ![image](/assets/img/_posts/project/itaewon-halloween-crowd-crush/metro_visualize.png)
 
 - 여의나루 : 불꽃축제
@@ -34,6 +36,7 @@ tags: [Programming, Python, Visualize]
 ## 2. 소상공인시장진흥공단 상가(상권)정보
 
 ### Clustering을 통한 상권 밀집도 / 연결성 확인
+
 - 서울의 술집 상권 clustering (zoom 1)
 ![image](/assets/img/_posts/project/itaewon-halloween-crowd-crush/market_z1.png)
 
@@ -48,6 +51,7 @@ tags: [Programming, Python, Visualize]
 ---
 
 ## 3. 서울특별시 행정동별 서울생활인구
+
 ![image](/assets/img/_posts/project/itaewon-halloween-crowd-crush/population_visualize.png)
 
 - 이촌제2동 : 불꽃축제
