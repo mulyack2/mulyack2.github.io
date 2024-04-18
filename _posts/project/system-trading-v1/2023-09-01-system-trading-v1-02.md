@@ -1,5 +1,5 @@
 ---
-title: System-Trading-v1-ETL-[01]
+title: System-Trading-v1-ETL-[02]
 date: 2023-09-01
 categories: [Project, System-Trading]
 tags: [Programming, Python, Data-ETL]
@@ -27,7 +27,7 @@ tags: [Programming, Python, Data-ETL]
 
 ### 기업의 Fundamental을 측정할 데이터
 
-#### [Dart](https://dart.fss.or.kr/)
+#### [Dart](https://dart.fss.or.kr/) / api_key 필요
 
 Dart를 활용하는 것이 적절해 보입니다.
 
@@ -49,11 +49,17 @@ Dart를 활용하는 것이 적절해 보입니다.
 
 ### 큰 경제 흐름을 확인할 데이터
 
-#### [Ecos](https://ecos.bok.or.kr/)
+#### [Ecos](https://ecos.bok.or.kr/) / api_key 필요
 
 한국은행에서 제 수준에서 필요한 모든 경제지표를 제공합니다.
 
 [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)와 함께 추출하면 될것 같습니다.
+
+#### [Fred](https://fred.stlouisfed.org/) / api_key 필요
+
+미국의 경제지표는 Fred(Federal Reserve Economic Data)에서 추출 합니다.
+
+[fredpy](https://github.com/letsgoexploring/fredpy)를 활용합니다.
 
 ## 여담
 
