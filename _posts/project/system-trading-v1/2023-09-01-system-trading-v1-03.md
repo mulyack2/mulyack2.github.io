@@ -15,16 +15,45 @@ tags: [Programming, Python, Modeling]
 
 ### 1. 현재 상황이 투자를 할 상황인지 선택하는 Model
 
+`model - macro`
+
 - Macro하게 매력적이지 않은 시점에 투자를 할 이유는 없다고 생각합니다.
 - 이번 프로젝트는 국내 주식 시스템 매매를 기반합니다.
   - 국내 주식 시장이 현 시점에서 매력이 있는지 없는지를 평가하는 Model이 필요합니다.
 
+#### 금리 기반의 평가
+
+- 미국금리와 한국금리의 비교는 상황평가에 꽤나 유용해 보입니다.
+  - 한국금리 > 미국금리 일때 KOSPI가 상승하는 모습을 보여주었습니다.
+
+![image](/assets/img/_posts/project/system-trading-v1/model_1_bir.png)
+
+- Model
+  - 미국금리와 한국금리의 n_window 간의 합산을 통해 현재 한국금리의 점수를 평가합니다.
+  - 0.5 이상의 값이 나온다면, 현재 한국금리가 우위에 있음을 나타냅니다.
+  - 금리 golden-cross 기반보다는 적절한 격차를 두는 것이 좋아보였습니다.
+
+#### 통화량 기반의 평가
+
+- 통화량이 증가한다면 KOSPI는 결국 상승하는 모습을 보여주었습니다.
+  - 다만 하락보다 상승에 더 큰 연관을 보이는 듯 합니다.
+
+![image](/assets/img/_posts/project/system-trading-v1/model_1_m1.png)
+
+- Model
+  - 통화량의 기울기를 통해 현재 상황을 파악합니다.
+    - 통화량의 기울기가 n_window 중 .5 이상이라면 꽤나 높은 수준으로 통화량이 증가함을 알 수 있습니다.
+
 ### 2. 투자할 종목을 선정하는 Model
+
+`model - Fundamental`
 
 - 1차적인 Filtering을 할 수 있는 Model이 필요합니다.
 - 저는 1차적인 Filtering을 Fundamental 요인을 기반으로 진행하기로 하였습니다.
 
 ### 3. 투자할 종목 중 `현재` 매수가 적절한 종목을 선택하는 Model
+
+`model - Technical`
 
 - Fundamental로 투자할만한 종목을 추린 후, 차트를 기반으로 현재 가격에 대한 분석을 진행합니다.
 - Technical Analysis를 그리 선호 하지는 않습니다만, 한다면 RSI 지표를 사용합니다.
