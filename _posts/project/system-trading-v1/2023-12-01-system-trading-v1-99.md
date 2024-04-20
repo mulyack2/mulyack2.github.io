@@ -42,6 +42,39 @@ tags: [Programming, Python, Talk]
   - 업무
     - 데이터 DB에 넣을 수 있을 정도로 정리
 
+## Model
+
+### Pandas merge_asof
+
+```python
+a_df = pd.DataFrame()
+b_df = pd.DataFrame()
+
+a_b_df = pd.merge_asof(
+            left=a_df, right=b_df,
+            by="id", on="date",
+            direction="nearest"
+)
+"""
+a_df 와 b_df를 
+  - id에 대해서는 반드시 같아야 merge 
+  - date에 대해서는 가장 가까운 값으로 merge
+    - 시계열을 다루다보면 필요한 방법
+"""
+```
+
+### Pandas Rolling
+
+rolling을 시계열을 다루다 보면 자주사용하는데
+
+- 이전 값을 기반으로 rolling이 default
+- 나는 이번에 앞쪽 값을 기반으로 rolling을 매겨야 해서
+
+```python
+backward_rolling = series.rolling(window=n).mean()
+front_rolling = series.shift(n).rolling(window=n).mean()
+```
+
 > PS  
 >
 > - 각 데이터 소스별로 3단계 까지 필요하지 않은 곳도 있었고 필요한 곳도 있었습니다.
