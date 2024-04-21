@@ -5,6 +5,18 @@ categories: [Project, System-Trading]
 tags: [Programming, Python, Controller]
 ---
 
+## System-Trading-v1 Series
+
+- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+
+- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+
+- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+
+- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+
+---
+
 ## 시스템 매매 Controller
 
 시스템 매매 프로젝트에서 의사결정을 전송할 Controller를 구현한다.

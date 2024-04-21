@@ -5,6 +5,18 @@ categories: [Project, System-Trading]
 tags: [Programming, Python, Modeling]
 ---
 
+## System-Trading-v1 Series
+
+- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+
+- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+
+- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+
+- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+
+---
+
 ## 시스템 매매 Modeling
 
 시스템 매매 프로젝트에서 의사결정을 진행할 모델을 구축한다.
