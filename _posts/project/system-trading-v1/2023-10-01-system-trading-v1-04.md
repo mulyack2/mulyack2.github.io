@@ -1,6 +1,6 @@
 ---
 title: System-Trading-v1-Controller-[03]
-date: 2023-09-01
+date: 2023-10-01
 categories: [Project, System-Trading]
 tags: [Programming, Python, Controller]
 ---
