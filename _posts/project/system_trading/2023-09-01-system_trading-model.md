@@ -1,19 +1,19 @@
 ---
-title: System-Trading-v1-Model-[03]
+title: System_Trading-Model
 date: 2023-09-01
-categories: [Project, System-Trading]
+categories: [Project, System_Trading]
 tags: [Programming, Python, Modeling]
 ---
 
-## System-Trading-v1 Series
+## System_Trading Series
 
-- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+- [System_Trading-BluePrint](/posts/system_trading-blueprint/)
 
-- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+- [System_Trading-ETL](/posts/system_trading-etl/)
 
-- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+- [System_Trading-Model](/posts/system_trading-model/)
 
-- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+- [System_Trading-Controller](/posts/system_trading-controller/)
 
 ---
 
@@ -38,7 +38,7 @@ tags: [Programming, Python, Modeling]
 - 미국금리와 한국금리의 비교는 상황평가에 꽤나 유용해 보입니다.
   - 한국금리 > 미국금리 일때 KOSPI가 상승하는 모습을 보여주었습니다.
 
-![image](/assets/img/_posts/project/system-trading-v1/model_1_bir.png)
+![image](/assets/img/_posts/project/system_trading/model_1_bir.png)
 
 - Model
   - 미국금리와 한국금리의 n_window 간의 합산을 통해 현재 한국금리의 점수를 평가합니다.
@@ -50,7 +50,7 @@ tags: [Programming, Python, Modeling]
 - 통화량이 증가한다면 KOSPI는 결국 상승하는 모습을 보여주었습니다.
   - 다만 하락보다 상승에 더 큰 연관을 보이는 듯 합니다.
 
-![image](/assets/img/_posts/project/system-trading-v1/model_1_m1.png)
+![image](/assets/img/_posts/project/system_trading/model_1_m1.png)
 
 - Model
   - 통화량의 기울기를 통해 현재 상황을 파악합니다.
@@ -97,7 +97,7 @@ tags: [Programming, Python, Modeling]
 #### Position Anaysis
 
 일단 맥락은 이런 느낌입니다.
-![position_analysis](/assets/img/_posts/project/system-trading-v1/position_analysis.png)
+![position_analysis](/assets/img/_posts/project/system_trading/position_analysis.png)
 
 - 우리가 차트에서 가격(시가,종가,저가,고가)과 거래량을 통해 최근 주식 구매자들의 평단가를 예측하는 것입니다.
 

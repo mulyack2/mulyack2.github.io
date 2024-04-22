@@ -1,19 +1,19 @@
 ---
-title: 이태원-압사-사고-ETL-[02]
+title: 이태원_압사_사고-ETL
 date: 2022-11-09
-categories: [Project, 이태원-압사-사고]
+categories: [Project, 이태원_압사_사고]
 tags: [Programming, Python, Data-ETL, Data-Preprocessing]
 ---
 
-## 이태원-압사-사고 Series
+## 이태원_압사_사고 Series
 
-- [이태원-압사-사고 BluePrint[01]](/posts/itaewon-halloween-crowd-crush-01/)
+- [이태원_압사_사고 BluePrint](/posts/itaewon_crowd_crush-blueprint/)
 
-- [이태원-압사-사고 ETL[02]](/posts/itaewon-halloween-crowd-crush-02/)
+- [이태원_압사_사고 ETL](/posts/itaewon_crowd_crush-etl/)
 
-- [이태원-압사-사고 Visualize[03]](/posts/itaewon-halloween-crowd-crush-03/)
+- [이태원_압사_사고 Visualize](/posts/itaewon_crowd_crush-visualize/)
 
-- [이태원-압사-사고 Prediction[04]](/posts/itaewon-halloween-crowd-crush-04/)  
+- [이태원_압사_사고 Prediction](/posts/itaewon_crowd_crush-prediction/)
 
 ---
 

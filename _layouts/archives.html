@@ -30,7 +30,8 @@ layout: page
       {% assign last_category = post.categories.last %}
       {% assign first_category = post.categories.first %}
       <a href="{{ post.url | relative_url }}">
-      <span style="color:rgb(218, 139, 139);">{{ first_category }} › {{ last_category }} › </span>{{ post.title }}
+      <span style="color:rgb(218, 139, 139);">{{ first_category }} ››› </span> {{ post.title }}
+      <!-- <span style="color:rgb(218, 139, 139);">{{ first_category }} › {{ last_category }} › </span> {{ post.title }} -->
       </a>
     </li>
 

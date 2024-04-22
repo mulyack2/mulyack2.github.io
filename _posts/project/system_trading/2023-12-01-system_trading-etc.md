@@ -1,19 +1,19 @@
 ---
-title: System-Trading-v1-Etc-[99]
+title: System_Trading-Etc
 date: 2023-12-01
-categories: [Project, System-Trading]
+categories: [Project, System_Trading]
 tags: [Programming, Python, Talk]
 ---
 
-## System-Trading-v1 Series
+## System_Trading Series
 
-- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+- [System_Trading-BluePrint](/posts/system_trading-blueprint/)
 
-- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+- [System_Trading-ETL](/posts/system_trading-etl/)
 
-- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+- [System_Trading-Model](/posts/system_trading-model/)
 
-- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+- [System_Trading-Controller](/posts/system_trading-controller/)
 
 ---
 

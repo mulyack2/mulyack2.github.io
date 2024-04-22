@@ -1,19 +1,19 @@
 ---
-title: System-Trading-v1-ETL-[02]
+title: System_Trading-ETL
 date: 2023-08-01
-categories: [Project, System-Trading]
+categories: [Project, System_Trading]
 tags: [Programming, Python, Data-ETL]
 ---
 
-## System-Trading-v1 Series
+## System_Trading Series
 
-- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+- [System_Trading-BluePrint](/posts/system_trading-blueprint/)
 
-- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+- [System_Trading-ETL](/posts/system_trading-etl/)
 
-- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+- [System_Trading-Model](/posts/system_trading-model/)
 
-- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+- [System_Trading-Controller](/posts/system_trading-controller/)
 
 ---
 
@@ -78,4 +78,4 @@ tags: [Programming, Python, Data-ETL]
 
 다양한 데이터 소스를 살펴 보았습니다.
 
-![image](/assets/img/_posts/project/system-trading-v1/data-source-checking.png)
+![image](/assets/img/_posts/project/system_trading/data-source-checking.png)

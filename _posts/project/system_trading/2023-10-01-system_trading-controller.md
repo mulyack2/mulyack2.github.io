@@ -1,19 +1,19 @@
 ---
-title: System-Trading-v1-Controller-[03]
+title: System_Trading-Controller
 date: 2023-10-01
-categories: [Project, System-Trading]
+categories: [Project, System_Trading]
 tags: [Programming, Python, Controller]
 ---
 
-## System-Trading-v1 Series
+## System_Trading Series
 
-- [System-Trading-v1 BluePrint[01]](/posts/system-trading-v1-01/)
+- [System_Trading-BluePrint](/posts/system_trading-blueprint/)
 
-- [System-Trading-v1 ETL[02]](/posts/system-trading-v1-02/)
+- [System_Trading-ETL](/posts/system_trading-etl/)
 
-- [System-Trading-v1 Model[03]](/posts/system-trading-v1-03/)
+- [System_Trading-Model](/posts/system_trading-model/)
 
-- [System-Trading-v1 Controller[04]](/posts/system-trading-v1-04/)
+- [System_Trading-Controller](/posts/system_trading-controller/)
 
 ---
 
@@ -63,6 +63,7 @@ class StatusController:
 
 """
 ps) 
+BaseController를 받아서 작업하는 형태
     fetch_balance는 잔고를 확인한다.
     fetch_orders는 예약주문을 확인한다.
     fetch_position는 현재 포지션(종목 / 수량 / 평단 / 수익률)을 확인한다.
@@ -86,6 +87,7 @@ class OrderController:
 
 """
 ps)
+BaseController를 받아서 작업하는 형태
     hashkey와 같이 시간에 dependent한 인증을 진행하며 주문을 해야합니다.
 """
 ```
