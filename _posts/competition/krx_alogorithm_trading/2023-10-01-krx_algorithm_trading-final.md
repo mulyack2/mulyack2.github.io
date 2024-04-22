@@ -1,5 +1,5 @@
 ---
-title: KRX_alwgorithm_trading-Final
+title: KRX_algorithm_trading-Final
 author: mulyack2
 date: 2023-10-01
 categories: [Competition, KRX_alogorithm_trading]
