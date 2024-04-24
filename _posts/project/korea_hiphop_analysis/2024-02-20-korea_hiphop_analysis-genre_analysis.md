@@ -2,7 +2,7 @@
 title: 한국힙합_쇠퇴-장르변화
 date: 2024-02-20
 categories: [Project, 한국힙합_쇠퇴]
-tags: [Programming, Python, Data-Analysis, Data-Visualze]
+tags: [_All, Music]
 ---
 
 ## 한국힙합_쇠퇴 Series

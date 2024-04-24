@@ -2,7 +2,7 @@
 title: 스타트업-Data_Engineering-BluePrint
 date: 2023-01-02
 categories: [Project, StartUp]
-tags: [Programming, Python, Recommendation, Automation]
+tags: [_All, Recommendation, Automation]
 ---
 
 ## 스타트업-Data_Engineering-Series

@@ -2,7 +2,7 @@
 title: System_Trading-Etc
 date: 2023-12-01
 categories: [Project, System_Trading]
-tags: [Programming, Python, Talk]
+tags: [_All, Finance]
 ---
 
 ## System_Trading Series

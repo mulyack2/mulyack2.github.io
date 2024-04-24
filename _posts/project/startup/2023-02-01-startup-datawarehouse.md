@@ -2,7 +2,7 @@
 title: 스타트업-Data_Engineering-DataWareHouse
 date: 2023-02-01
 categories: [Project, StartUp]
-tags: [Programming, Python, DataWareHouse]
+tags: [_All, Recommendation, Automation]
 ---
 
 ## 스타트업-Data_Engineering-Series
@@ -32,11 +32,13 @@ tags: [Programming, Python, DataWareHouse]
 
 ### 1. DB 이해 및 Data_WareHouse setting
 
-처음으로 상용 백엔드 DB를 만져보니 정말 복잡했습니다.</br>
+처음으로 상용 백엔드 DB를 만져보니 정말 복잡했습니다.
+
 백엔드 팀과 회의를 하며 DB를 이해하는 시간을 가졌습니다.
 
-백엔드 DB는 `DB Normalization`으로 인해 데이터 엔지니어링에 적합하지 않은 형식을 가졌습니다.</br>
-이에 바로 ML 모델에 사용할 수 있는 형식으로 데이터를 `denormalization` 진행했습니다.
+백엔드 DB는 `Normalization`으로 인해 데이터 엔지니어링에 적합하지 않은 형식을 가졌습니다.
+
+이에 바로 ML 모델에 사용할 수 있는 형식으로 데이터를 `Denormalization` 진행했습니다.
 
 ---
 

@@ -2,7 +2,7 @@
 title: 한국힙합_쇠퇴-음악_이용자_실태조사
 date: 2024-02-10
 categories: [Project, 한국힙합_쇠퇴]
-tags: [Programming, Python, Data-Analysis, Data-Visualze]
+tags: [_All, Music]
 ---
 
 ## 한국힙합_쇠퇴 Series

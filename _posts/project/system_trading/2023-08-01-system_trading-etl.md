@@ -2,7 +2,7 @@
 title: System_Trading-ETL
 date: 2023-08-01
 categories: [Project, System_Trading]
-tags: [Programming, Python, Data-ETL]
+tags: [_All, Finance]
 ---
 
 ## System_Trading Series

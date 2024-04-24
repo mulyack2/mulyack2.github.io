@@ -2,7 +2,7 @@
 title: KakaoTalk-OpenChat_Analysis-BluePrint
 date: 2024-03-01
 categories: [Project, OpenChat_Analysis]
-tags: [Programming, Python, NLP]
+tags: [_All, NLP]
 ---
 
 ## KakaoTalk-OpenChat_Analysis Series

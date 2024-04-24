@@ -3,7 +3,7 @@ title: KRX_algorithm_trading-Final
 author: mulyack2
 date: 2023-10-01
 categories: [Competition, KRX_alogorithm_trading]
-tags: [Programming, Python]
+tags: [_All, Finance]
 ---
 
 ## KRX_Trading-Series

@@ -2,7 +2,7 @@
 title: 스타트업-Data_Engineering-Automation
 date: 2023-04-01
 categories: [Project, StartUp]
-tags: [Programming, Python, Automation]
+tags: [_All, Recommendation, Automation]
 ---
 
 ## 스타트업-Data_Engineering-Series

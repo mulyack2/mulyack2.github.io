@@ -2,7 +2,7 @@
 title: KakaoTalk-OpenChat_Analysis-ML
 date: 2024-03-05
 categories: [Project, OpenChat_Analysis]
-tags: [Programming, Python]
+tags: [_All, NLP]
 ---
 
 ## KakaoTalk-OpenChat_Analysis Series

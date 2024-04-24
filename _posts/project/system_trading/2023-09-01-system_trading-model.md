@@ -2,7 +2,7 @@
 title: System_Trading-Model
 date: 2023-09-01
 categories: [Project, System_Trading]
-tags: [Programming, Python, Modeling]
+tags: [_All, Finance]
 ---
 
 ## System_Trading Series

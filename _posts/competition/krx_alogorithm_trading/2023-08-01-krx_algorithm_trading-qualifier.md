@@ -3,7 +3,7 @@ title: KRX_algorithm_trading-Qualifier
 author: mulyack2
 date: 2023-08-01
 categories: [Competition, KRX_alogorithm_trading]
-tags: [Programming, Python]
+tags: [_All, Finance]
 ---
 
 ## KRX_Trading-Series

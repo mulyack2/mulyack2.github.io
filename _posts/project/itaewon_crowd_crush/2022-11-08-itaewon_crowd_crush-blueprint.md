@@ -2,7 +2,7 @@
 title: 이태원_압사_사고-BluePrint
 date: 2022-11-08
 categories: [Project, 이태원_압사_사고]
-tags: [Programming, Python, Data-Analysis, Data-Visualze]
+tags: [_All, Population]
 ---
 
 ## 이태원_압사_사고 Series

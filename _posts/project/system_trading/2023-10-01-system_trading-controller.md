@@ -2,7 +2,7 @@
 title: System_Trading-Controller
 date: 2023-10-01
 categories: [Project, System_Trading]
-tags: [Programming, Python, Controller]
+tags: [_All, Finance]
 ---
 
 ## System_Trading Series

@@ -2,7 +2,7 @@
 title: 이태원_압사_사고-Etc
 date: 2022-11-23
 categories: [Project, 이태원_압사_사고]
-tags: [Programming, Python, Data-Analysis, Data-Visualze]
+tags: [_All, Population]
 ---
 
 ## 이태원_압사_사고 Series

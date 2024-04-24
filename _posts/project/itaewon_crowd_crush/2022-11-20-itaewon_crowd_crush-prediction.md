@@ -2,7 +2,7 @@
 title: 이태원_압사_사고-Prediction
 date: 2022-11-23
 categories: [Project, 이태원_압사_사고]
-tags: [Programming, Python, Modeling]
+tags: [_All, Population]
 ---
 
 ## 이태원_압사_사고 Series
