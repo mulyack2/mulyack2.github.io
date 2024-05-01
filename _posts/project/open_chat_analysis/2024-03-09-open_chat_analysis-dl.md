@@ -22,8 +22,7 @@ tags: [_All, NLP]
 
 ### 1. Naver Clova Sentimental Analysis
 
-직접 감성분석을 진행하기에 비용이 좀 많이 들어가서 `API` 로 대체</br>
-(월 1000회 무료.)
+직접 감성분석을 진행하기에 비용이 좀 많이 들어가서 `API` 로 대체 (월 1000회 무료.)
 
 ```py
 class NaverAIExtractor:
