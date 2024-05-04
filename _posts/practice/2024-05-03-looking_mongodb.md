@@ -1,7 +1,7 @@
 ---
 title: MongoDB를 살펴보자
 date: 2024-05-01
-categories: [Pracetice, Bigdata]
+categories: [Practice, Bigdata]
 tags: [Looking, Bigdata, MongoDB]
 ---
 

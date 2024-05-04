@@ -1,7 +1,7 @@
 ---
 title: NoSQL을 살펴보자
 date: 2024-05-01
-categories: [Pracetice, BigData]
+categories: [Practice, Bigdata]
 tags: [Looking, Bigdata, NoSQL]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 맥북 ssh 외부접속 허용하기, ssh-key를 통한 인증하기
 date: 2024-05-01
-categories: [Pracetice, Linux]
+categories: [Practice, Linux]
 tags: [_All, Linux]
 ---
 
